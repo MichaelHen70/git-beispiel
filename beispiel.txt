@@ -1,1 +1,4 @@
 erstes git beispiel
+zweite zeile
+dritte zeile
+vierte zeile
